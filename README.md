@@ -1,1 +1,1 @@
-This Repository aims to house all Kaggle competition related code.
+This repository aims to house all code related to the M5 Accuracy Kaggle competition.
